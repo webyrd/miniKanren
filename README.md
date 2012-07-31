@@ -1,7 +1,7 @@
 miniKanren
 ==========
 
-Copyright (C) 2012 Daniel P. Friedman, Oleg Kiselyov, William E. Byrd
+Copyright (C) 2012 Daniel P. Friedman, Oleg Kiselyov, Abdulaziz Ghuloum, William E. Byrd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -11,4 +11,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-Will's personal version of miniKanren, since he can never find the version he wants.
+Will's personal version of miniKanren, since he can never find the version he wants.  Includes disequality constraints and Aziz's trie-based susbtitutions.
