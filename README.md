@@ -11,4 +11,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-Will's personal version of miniKanren, since he can never find the version he wants.  Includes disequality constraints and Aziz's trie-based susbtitutions. [Or at least, will use the trie code once Will integrates the files!]
+This version is out of date with respect to the latest symbolic constraints in miniKanren.  See 'https://github.com/webyrd/miniKanren-with-symbolic-constraints' for a more recent version.
+
+Will's *old* personal version of miniKanren, since he can never find the version he wants.  Includes disequality constraints and Aziz's trie-based susbtitutions. [Or at least, will use the trie code once Will integrates the files! (which never happened...)]
